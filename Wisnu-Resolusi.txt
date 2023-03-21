@@ -3,3 +3,4 @@ Wisnu Resolusi :
 - Mengupload file
 - Bisa diakses online
 - Membuat web sederhana
+- Mempelajari CI
