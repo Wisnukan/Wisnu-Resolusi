@@ -2,3 +2,4 @@ Wisnu Resolusi :
 - Mempelajari GitHub
 - Mengupload file
 - Bisa diakses online
+- Membuat web sederhana
